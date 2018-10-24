@@ -1,11 +1,16 @@
 _repo: The-Hurricane-Hunters_57973
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57973-h/images/cover.jpg
 creator:
   author:
     agent_name: Tannehill, Ivan Ray
     gutenberg_agent_id: '49717'
     url: http://www.gutenberg.org/2009/agents/49717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57973#The-Hurricane-Hunters
 gutenberg_issued: '2018-09-25'
 gutenberg_type: Text
 identifiers:
